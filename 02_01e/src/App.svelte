@@ -3,6 +3,14 @@
 </script>
 
 <main>
+	<form class="signup">
+		<label for="email">Email</label>
+		<input type="email" name="email">
+		<label for="password">password:</label>
+		<input type="password" name="password">
+		<button>Signup</button>
+	</form>
+
 	<h2>Login</h2>
     <form class="login">
         <label for="email">Email:</label>
@@ -12,7 +20,7 @@
         <button>Login</button>
     </form>
     <button class="logout">Logout</button>
-
+	
 	<h1>Hello {name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
