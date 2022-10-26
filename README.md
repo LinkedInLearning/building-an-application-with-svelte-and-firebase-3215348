@@ -1,4 +1,4 @@
-# Building an Application with Svelte and Firebase
+# Building an Application with Svelte and Firebase `02_05` LESSON
 
 This is the repository for the LinkedIn Learning course `Building an Application with Svelte and Firebase`. The full course is available from [LinkedIn Learning][lil-course-url]. 
 
