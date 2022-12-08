@@ -19,12 +19,12 @@ export default app;
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAYFNE9DEY2_6YtT0B3mi8iHmAwwiv0A7s",
-  authDomain: "hello-world-7d887.firebaseapp.com",
-  projectId: "hello-world-7d887",
-  storageBucket: "hello-world-7d887.appspot.com",
-  messagingSenderId: "104946554944",
-  appId: "1:104946554944:web:5f6515249378cc065d67a5"
+  apiKey: "REPLACE_WITH_YOUR_FIREBASE_CONFIG.",
+  authDomain: "REPLACE_WITH_YOUR_FIREBASE_CONFIG.",
+  projectId: "REPLACE_WITH_YOUR_FIREBASE_PROJECT_ID",
+  storageBucket: "REPLACE_WITH_YOUR_FIREBASE_CONFIG.",
+  messagingSenderId: "REPLACE_WITH_YOUR_FIREBASE_CONFIG.",
+  appId: "REPLACE_WITH_YOUR_FIREBASE_APP_ID"
 };
 
 // Initialize Firebase
