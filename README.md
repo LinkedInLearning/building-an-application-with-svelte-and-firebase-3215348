@@ -1,8 +1,8 @@
-# Building an Application with Svelte and Firebase `02_05` LESSON
+# Building an Application with Svelte and Firebase
+This is the repository for the LinkedIn Learning course Building an Application with Svelte and Firebase. The full course is available from [LinkedIn Learning][lil-course-url].
 
-This is the repository for the LinkedIn Learning course `Building an Application with Svelte and Firebase`. The full course is available from [LinkedIn Learning][lil-course-url]. 
+Svelte and Firebase both try to use the simplest set of tools possible in different ways. Svelte is a front-end, component-based framework that offers enhanced performance and a more approachable developer experience. Firebase is a backend-as-a-service platform that makes it easier to build and monitor great apps. In this course, learn how to combine the dependency-free client approach of Svelte with the core set of lightweight data storage tools in Firebase to create a quick foundation application. Instructor Ayodele Leom covers everything from basic setup to interactive design with Svelte.
 
-_See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -21,15 +21,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Ayodele Leom 
+                            
+Front-end Web Designer
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ayodele-leom).
+
+[lil-course-url]: https://www.linkedin.com/learning/building-an-application-with-svelte-and-firebase?dApp=59033956
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3215348/1671132382147?e=2147483647&v=beta&t=M445Ya1JaJDj4A-7oURGKi-rbnAsylJJCY-iycpO9XE-16x9.jpg
